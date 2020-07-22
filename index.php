@@ -1,7 +1,7 @@
 <?php
 
-echo "hello new world!";
+echo "Hello World!";
 
-echo 'nova llinha'
+echo "Olá Mundo!";
 
 ?>
